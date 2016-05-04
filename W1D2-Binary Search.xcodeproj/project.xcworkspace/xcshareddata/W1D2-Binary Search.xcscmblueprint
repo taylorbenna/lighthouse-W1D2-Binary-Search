@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DF5A160CB1D65688E143B7ADDBC59720695EEB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DF5A160CB1D65688E143B7ADDBC59720695EEB8" : 0,
+    "6977D6109FB4BDB370D1BB62FD6D3DF9D4F7671F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EAAA638-DC01-43DC-A0BC-3890DD55534B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DF5A160CB1D65688E143B7ADDBC59720695EEB8" : "W1D2-Binary%20Search\/",
+    "6977D6109FB4BDB370D1BB62FD6D3DF9D4F7671F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "W1D2-Binary Search",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "W1D2-Binary Search.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/taylorbenna\/lighthouse-prep.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6977D6109FB4BDB370D1BB62FD6D3DF9D4F7671F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/taylorbenna\/lighthouse-W1D2-Binary-Search.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DF5A160CB1D65688E143B7ADDBC59720695EEB8"
+    }
+  ]
+}
